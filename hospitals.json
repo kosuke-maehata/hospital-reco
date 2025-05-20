@@ -1,0 +1,1913 @@
+[
+  {
+    "name": "セコメディック病院",
+    "address": "千葉県船橋市豊富町696-1",
+    "acute_level": 4,
+    "features": "急性期から回復期、慢性期まで幅広い医療を提供。脳神経外科・整形外科に強み。",
+    "points": "地域密着型の総合医療を提供し、リハビリや慢性疾患フォローにも適している。",
+    "website_main": "https://www.secomedic.gr.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 3,
+    "group": [
+      "習志野第一病院",
+      "セコメディック病院",
+      "聖光ヶ丘病院",
+      "最成病院",
+      "船橋整形外科病院"
+    ]
+  },
+  {
+    "name": "最成病院",
+    "address": "千葉県千葉市花見川区柏井町800-1",
+    "acute_level": 3,
+    "features": "総合内科・外科、リハビリなどを含む多科目診療に対応した中規模病院。",
+    "points": "地域住民のかかりつけ医療機関として活用可能。慢性疾患や回復期に適す。",
+    "website_main": "https://www.saisei.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 4,
+    "group": [
+      "習志野第一病院",
+      "セコメディック病院",
+      "聖光ヶ丘病院",
+      "最成病院",
+      "船橋整形外科病院"
+    ]
+  },
+  {
+    "name": "船橋整形外科病院",
+    "address": "千葉県船橋市飯山満町1-833",
+    "acute_level": 4,
+    "features": "整形外科専門病院として、関節・脊椎・スポーツ整形などに特化。手術実績も豊富。",
+    "points": "整形外科領域の専門治療が必要な患者の紹介先として有力。",
+    "website_main": "https://www.funahashi.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": true,
+    "priority": 5,
+    "group": [
+      "習志野第一病院",
+      "セコメディック病院",
+      "聖光ヶ丘病院",
+      "最成病院",
+      "船橋整形外科病院"
+    ]
+  },
+  {
+    "name": "習志野第一病院",
+    "address": "千葉県習志野市津田沼5-5-25",
+    "acute_level": 3,
+    "features": "地域の急性期医療を担う中規模病院。内科・外科・整形外科等を標榜。",
+    "points": "中等症患者への一次対応やフォローアップが可能。",
+    "website_main": "https://www.narashino-daiichi-hospital.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 6,
+    "group": [
+      "習志野第一病院",
+      "セコメディック病院",
+      "聖光ヶ丘病院",
+      "最成病院",
+      "船橋整形外科病院"
+    ]
+  },
+  {
+    "name": "聖光ヶ丘病院",
+    "address": "千葉県柏市光ヶ丘団地2-3",
+    "acute_level": 2,
+    "features": "高齢者医療や慢性期に強みを持つ地域密着型病院。",
+    "points": "慢性疾患管理や在宅復帰支援の受け皿として適している。",
+    "website_main": "https://www.seikoh.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 7,
+    "group": [
+      "習志野第一病院",
+      "セコメディック病院",
+      "聖光ヶ丘病院",
+      "最成病院",
+      "船橋整形外科病院"
+    ]
+  },
+  {
+    "name": "千葉しすい病院",
+    "address": "千葉県印旛郡酒々井町上岩橋1160-2",
+    "acute_level": 3,
+    "features": "精神科を中心に一般内科・外科を併設。療養やリハビリにも対応。",
+    "points": "精神科病床を有し、精神疾患患者の受け入れ先として候補に。",
+    "website_main": "https://www.shisui-hp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 8,
+    "group": [
+      "千葉しすい病院"
+    ]
+  },
+  {
+    "name": "タムス浦安病院",
+    "address": "千葉県浦安市高洲7-2-32",
+    "acute_level": 3,
+    "features": "療養型・回復期に特化した病院。地域包括ケア病床を有し、在宅復帰支援に注力。",
+    "points": "急性期後の患者受け入れや在宅移行の中継として機能。高齢者ケアに強い。",
+    "website_main": "https://tums-urayasu.tums.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 9,
+    "group": [
+      "タムス浦安病院"
+    ]
+  },
+  {
+    "name": "野田病院",
+    "address": "千葉県野田市中里1554-1",
+    "acute_level": 3,
+    "features": "内科・外科中心の地域密着型病院。回復期・療養にも対応可能。",
+    "points": "中等症や慢性疾患患者の対応に適し、地域での役割を果たす。",
+    "website_main": "https://www.nodahp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "野田病院"
+    ]
+  },
+  {
+    "name": "千葉西総合病院",
+    "address": "千葉県松戸市金ケ作107-1",
+    "acute_level": 5,
+    "features": "高度急性期医療を担う総合病院。循環器や脳神経領域に強み。",
+    "points": "急性期の重症患者対応が可能なハイレベル病院。紹介先として信頼性が高い。",
+    "website_main": "https://www.chibanishi-hp.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": true,
+    "priority": 1,
+    "group": [
+      "千葉西総合病院"
+    ]
+  },
+  {
+    "name": "新東京病院",
+    "address": "千葉県松戸市和名ケ谷1271",
+    "acute_level": 5,
+    "features": "心臓血管外科・循環器内科を中心とした高度専門医療を提供。",
+    "points": "心疾患・循環器疾患の専門病院として重症患者の受け入れに適す。",
+    "website_main": "https://www.shin-tokyohospital.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": true,
+    "priority": 2,
+    "group": [
+      "新東京病院"
+    ]
+  },
+  {
+    "name": "おおたかの森病院",
+    "address": "千葉県流山市西初石6-733-1",
+    "acute_level": 4,
+    "features": "急性期から回復期まで一貫した医療を提供。",
+    "points": "急性期医療を支える地域中核病院。アクセスの良さも魅力。",
+    "website_main": "https://otakanomori-hp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 11,
+    "group": [
+      "おおたかの森病院"
+    ]
+  },
+  {
+    "name": "千葉徳洲会病院",
+    "address": "千葉県船橋市高根台2-11-1",
+    "acute_level": 4,
+    "features": "徳洲会グループの中核病院。24時間救急受け入れ体制を整備。",
+    "points": "救急搬送や急性期疾患の早期対応に強み。",
+    "website_main": "https://www.chibatoku.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 12,
+    "group": [
+      "千葉徳洲会病院"
+    ]
+  },
+  {
+    "name": "千葉メディカルセンター",
+    "address": "千葉県千葉市中央区南町1-7-1",
+    "acute_level": 4,
+    "features": "複数科目に対応する総合病院。地域中核医療を担う。",
+    "points": "急性期疾患から回復期まで幅広く対応可能。",
+    "website_main": "https://www.chiba-medical-center.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 13,
+    "group": [
+      "千葉メディカルセンター"
+    ]
+  },
+  {
+    "name": "行徳総合病院",
+    "address": "千葉県市川市本行徳5525-2",
+    "acute_level": 4,
+    "features": "高度医療・救急医療に対応した総合病院。",
+    "points": "地域の中核病院として急性期対応に優れる。",
+    "website_main": "https://www.gyotoku-gh.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 14,
+    "group": [
+      "行徳総合病院"
+    ]
+  },
+  {
+    "name": "柏厚生総合病院",
+    "address": "千葉県柏市篠籠田617",
+    "acute_level": 4,
+    "features": "急性期医療とリハビリに注力した総合病院。",
+    "points": "幅広い疾患に対応できる中核病院。",
+    "website_main": "https://www.kashiwakousei.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 15,
+    "group": [
+      "柏厚生総合病院"
+    ]
+  },
+  {
+    "name": "新松戸中央総合病院",
+    "address": "千葉県松戸市新松戸1-380",
+    "acute_level": 4,
+    "features": "救急・急性期を中心に医療を展開。リハビリも充実。",
+    "points": "急性期疾患への対応力があり、紹介先として活用可能。",
+    "website_main": "https://www.shinmatsudochuo.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 16,
+    "group": [
+      "新松戸中央総合病院"
+    ]
+  },
+  {
+    "name": "鎌ケ谷総合病院",
+    "address": "千葉県鎌ケ谷市初富929-6",
+    "acute_level": 4,
+    "features": "救急医療や急性期医療に対応した地域中核病院。",
+    "points": "救急搬送や急性期治療に柔軟に対応可能。",
+    "website_main": "https://www.kamagaya-hp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 17,
+    "group": [
+      "鎌ケ谷総合病院"
+    ]
+  },
+  {
+    "name": "千葉中央メディカルセンター",
+    "address": "千葉県千葉市若葉区加曽利町1835-1",
+    "acute_level": 4,
+    "features": "内科・外科・整形外科など幅広い診療科に対応した総合病院。",
+    "points": "幅広い疾患への対応力を持ち、紹介・転院先として活用可能。",
+    "website_main": "https://www.ccmc.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 18,
+    "group": [
+      "千葉中央メディカルセンター"
+    ]
+  },
+  {
+    "name": "オーククリニックフォーミズ病院",
+    "address": "千葉県松戸市竹ヶ花50-3",
+    "acute_level": 3,
+    "features": "婦人科・不妊治療・出産を中心に提供する専門病院。",
+    "points": "産婦人科や不妊治療が必要な患者への紹介先に適す。",
+    "website_main": "https://www.oakclinic-group.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 19,
+    "group": [
+      "オーククリニックフォーミズ病院"
+    ]
+  },
+  {
+    "name": "新八千代病院",
+    "address": "千葉県八千代市米本2167-1",
+    "acute_level": 3,
+    "features": "精神科・療養型病床を中心とした病院。",
+    "points": "精神疾患や長期療養が必要な患者の受け入れ先として有力。",
+    "website_main": "https://www.shinyachiyo.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 20,
+    "group": [
+      "新八千代病院"
+    ]
+  },
+  {
+    "name": "我孫子聖仁会病院",
+    "address": "千葉県我孫子市柴崎1300",
+    "acute_level": 3,
+    "features": "回復期リハビリに注力する地域密着型病院。",
+    "points": "回復期やリハビリ対応の紹介先として有力。",
+    "website_main": "https://www.abiko-seijinkai.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 21,
+    "group": [
+      "我孫子聖仁会病院"
+    ]
+  },
+  {
+    "name": "柏戸病院",
+    "address": "千葉県千葉市中央区長洲2-21-8",
+    "acute_level": 3,
+    "features": "内科・外科を中心に多科目診療が可能な中規模病院。",
+    "points": "一般診療や中等症患者の受け入れ先に適す。",
+    "website_main": "https://www.kashiwado.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 22,
+    "group": [
+      "柏戸病院"
+    ]
+  },
+  {
+    "name": "柏市立柏病院",
+    "address": "千葉県柏市布施1-3",
+    "acute_level": 4,
+    "features": "公立病院として地域医療を支える中核病院。",
+    "points": "急性期から回復期まで幅広くカバー。紹介先として信頼性あり。",
+    "website_main": "https://www.city.kashiwa.lg.jp/hospital/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 23,
+    "group": [
+      "柏市立柏病院"
+    ]
+  },
+  {
+    "name": "千葉脳神経外科病院",
+    "address": "千葉県千葉市稲毛区長沼原町408",
+    "acute_level": 4,
+    "features": "脳神経外科に特化した専門病院。救急にも対応し、高度医療機器を完備。",
+    "points": "脳疾患・外傷などに特化し、専門的治療が可能。紹介先として高い信頼性。",
+    "website_main": "https://www.chiba-nouge.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": true,
+    "priority": 24,
+    "group": [
+      "千葉脳神経外科病院"
+    ]
+  },
+  {
+    "name": "流山中央病院",
+    "address": "千葉県流山市東初石2-132-2",
+    "acute_level": 3,
+    "features": "急性期から慢性期まで幅広く対応。地域密着型の総合病院。",
+    "points": "幅広い疾患に対応し、地域医療連携が取りやすい。",
+    "website_main": "https://www.nch.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 25,
+    "group": [
+      "流山中央病院"
+    ]
+  },
+  {
+    "name": "リハビリテーション病院さらしな",
+    "address": "千葉県千葉市花見川区犢橋町77",
+    "acute_level": 2,
+    "features": "回復期・リハビリに特化した専門病院。生活機能向上支援に注力。",
+    "points": "リハビリ目的の転院先として適しており、在宅復帰を支援。",
+    "website_main": "https://www.sarashina-hp.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 26,
+    "group": [
+      "リハビリテーション病院さらしな"
+    ]
+  },
+  {
+    "name": "成田富里徳洲会病院",
+    "address": "千葉県富里市日吉台1-1-1",
+    "acute_level": 4,
+    "features": "徳洲会グループの急性期対応病院。救急・手術体制が整備されている。",
+    "points": "救急・急性期対応可能な紹介先。24時間受け入れも強み。",
+    "website_main": "https://www.naritatomisato-hp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 27,
+    "group": [
+      "成田富里徳洲会病院"
+    ]
+  },
+  {
+    "name": "谷津保健病院",
+    "address": "千葉県習志野市谷津4-6-16",
+    "acute_level": 4,
+    "features": "急性期を中心とした総合病院。幅広い診療科に対応。",
+    "points": "地域の中核病院として急性期疾患の対応に適す。",
+    "website_main": "https://www.yatsu.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 28,
+    "group": [
+      "谷津保健病院"
+    ]
+  },
+  {
+    "name": "浅井病院",
+    "address": "千葉県東金市家之子2010-6",
+    "acute_level": 3,
+    "features": "精神科医療を専門とする病院。療養・認知症にも対応。",
+    "points": "精神疾患患者の長期療養や転院先として適している。",
+    "website_main": "https://www.asai-hp.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 29,
+    "group": [
+      "浅井病院"
+    ]
+  },
+  {
+    "name": "行徳総合病院",
+    "address": "千葉県市川市本行徳5525-2",
+    "acute_level": 4,
+    "features": "救急・高度医療に対応した総合病院。地域医療支援病院として機能。",
+    "points": "急性期患者への迅速な対応と、高度な医療提供が可能。",
+    "website_main": "https://www.gyotoku-gh.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 30,
+    "group": [
+      "行徳総合病院"
+    ]
+  },
+  {
+    "name": "平山病院",
+    "address": "千葉県船橋市飯山満町2-508",
+    "acute_level": 3,
+    "features": "精神科を中心とした医療を提供。療養にも対応可能。",
+    "points": "精神疾患に特化し、長期療養も視野に入れた転院先として適す。",
+    "website_main": "https://www.hirayama-hospital.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 31,
+    "group": [
+      "平山病院"
+    ]
+  },
+  {
+    "name": "千葉愛友会記念病院",
+    "address": "千葉県流山市鰭ケ崎1-1",
+    "acute_level": 4,
+    "features": "急性期から回復期、在宅支援まで幅広く対応。",
+    "points": "在宅復帰を視野に入れた一貫医療を提供可能な病院。",
+    "website_main": "https://www.aiyukai.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 32,
+    "group": [
+      "千葉愛友会記念病院"
+    ]
+  },
+  {
+    "name": "大倉記念病院",
+    "address": "千葉県千葉市若葉区加曽利町1835-1",
+    "acute_level": 3,
+    "features": "整形外科とリハビリテーションに強みを持つ中規模病院。",
+    "points": "整形外科疾患や回復期リハビリ目的での紹介先として有用。",
+    "website_main": "https://www.okura-hp.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 33,
+    "group": [
+      "大倉記念病院"
+    ]
+  },
+  {
+    "name": "船橋市立リハビリテーション病院",
+    "address": "千葉県船橋市夏見台4-26-1",
+    "acute_level": 2,
+    "features": "回復期リハビリテーションに特化した公立病院。多職種連携による在宅復帰支援を重視。",
+    "points": "脳卒中後や整形外科術後のリハビリに適しており、回復期の受け皿として有力。",
+    "website_main": "https://www.city.funabashi.lg.jp/byouin/004/01/0001/p011709.html",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "船橋市立リハビリテーション病院"
+    ]
+  },
+  {
+    "name": "初富保健病院",
+    "address": "千葉県鎌ケ谷市初富803",
+    "acute_level": 2,
+    "features": "慢性期・療養型病床を中心とした医療を提供。高齢者ケアに重点。",
+    "points": "長期療養や在宅復帰困難な患者の転院先として候補に。",
+    "website_main": "https://www.hatsutomi-hoken.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 2,
+    "group": [
+      "初富保健病院"
+    ]
+  },
+  {
+    "name": "板倉病院",
+    "address": "千葉県船橋市本町2-10-1",
+    "acute_level": 3,
+    "features": "総合内科・外科を中心とした地域密着型の中規模病院。",
+    "points": "高齢者医療や慢性疾患管理の受け皿として適している。",
+    "website_main": "https://www.itakurahp.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 3,
+    "group": [
+      "板倉病院"
+    ]
+  },
+  {
+    "name": "平和台病院",
+    "address": "千葉県我孫子市布佐834-28",
+    "acute_level": 3,
+    "features": "急性期から慢性期、リハビリまでカバーする総合病院。",
+    "points": "中等症対応や転院先として柔軟な運用が可能。",
+    "website_main": "https://www.heiwadai-hospital.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 4,
+    "group": [
+      "平和台病院"
+    ]
+  },
+  {
+    "name": "五香病院",
+    "address": "千葉県松戸市五香8-40-1",
+    "acute_level": 3,
+    "features": "一般内科・外科に加え、リハビリや慢性期にも対応。",
+    "points": "高齢者のフォローや在宅支援も可能な中規模病院。",
+    "website_main": "https://www.goko.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 5,
+    "group": [
+      "五香病院"
+    ]
+  },
+  {
+    "name": "江戸川病院",
+    "address": "東京都江戸川区東小岩2-24-18",
+    "acute_level": 4,
+    "features": "がん治療・消化器内視鏡・整形外科に強みを持つ地域中核病院。",
+    "points": "東京都内だが千葉県からの紹介も多く、専門治療に強み。",
+    "website_main": "https://www.edogawa.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 6,
+    "group": [
+      "江戸川病院"
+    ]
+  },
+  {
+    "name": "みはま病院",
+    "address": "千葉県千葉市美浜区打瀬1-1-5",
+    "acute_level": 3,
+    "features": "透析や内科、整形外科に注力した地域密着型病院。",
+    "points": "慢性疾患・高齢者のフォローアップに適している。",
+    "website_main": "https://www.mihama.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 7,
+    "group": [
+      "みはま病院"
+    ]
+  },
+  {
+    "name": "成田病院",
+    "address": "千葉県成田市押畑896",
+    "acute_level": 3,
+    "features": "一般内科・リハビリ・療養型を備えた医療機関。",
+    "points": "中等症や高齢者医療に対応し、紹介・転院先として適す。",
+    "website_main": "https://www.naritahp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 8,
+    "group": [
+      "成田病院"
+    ]
+  },
+  {
+    "name": "幕張病院",
+    "address": "千葉県千葉市花見川区幕張町5-392-2",
+    "acute_level": 3,
+    "features": "一般外来から入院医療、在宅支援まで幅広く提供する病院。",
+    "points": "地域密着型の病院として、かかりつけ医療にも適している。",
+    "website_main": "https://www.makuhari-hp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 9,
+    "group": [
+      "幕張病院"
+    ]
+  },
+  {
+    "name": "木野崎病院",
+    "address": "千葉県野田市木野崎1561-1",
+    "acute_level": 3,
+    "features": "慢性期・精神科医療に注力した医療機関。療養病床も有する。",
+    "points": "長期入院や精神疾患患者の対応に適した病院。",
+    "website_main": "https://www.kinosaki.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "木野崎病院"
+    ]
+  },
+  {
+    "name": "江陽台病院",
+    "address": "千葉県木更津市大久保1-9-1",
+    "acute_level": 3,
+    "features": "地域密着型の病院で、一般内科・整形外科を中心とした診療体制を整備。",
+    "points": "高齢者や慢性疾患患者の受け入れに適した体制。",
+    "website_main": "https://www.koyodai-hp.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "江陽台病院"
+    ]
+  },
+  {
+    "name": "東船橋病院",
+    "address": "千葉県船橋市高根台4-29-1",
+    "acute_level": 3,
+    "features": "一般内科・外科・整形外科など幅広い診療に対応する中規模病院。",
+    "points": "地域に根ざした医療を提供しており、急性期後のフォローにも対応可能。",
+    "website_main": "https://www.higashifunahashi-hp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 2,
+    "group": [
+      "東船橋病院"
+    ]
+  },
+  {
+    "name": "北総白井病院",
+    "address": "千葉県白井市根325-2",
+    "acute_level": 3,
+    "features": "内科・整形外科・外科を中心に医療を提供。療養型病床もあり。",
+    "points": "地域包括ケアや慢性期医療に対応可能。",
+    "website_main": "https://www.hakusohp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 3,
+    "group": [
+      "北総白井病院"
+    ]
+  },
+  {
+    "name": "共立習志野台病院",
+    "address": "千葉県船橋市習志野台4-13-16",
+    "acute_level": 3,
+    "features": "内科、外科、整形外科などの一般的診療科目をカバーする地域密着型病院。",
+    "points": "中等症や高齢者の外来・入院対応に適す。",
+    "website_main": "https://www.kyoritsu-narashinodai.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 4,
+    "group": [
+      "共立習志野台病院"
+    ]
+  },
+  {
+    "name": "八千代病院",
+    "address": "千葉県八千代市米本2167",
+    "acute_level": 3,
+    "features": "精神科と内科を中心に医療提供。療養型病床あり。",
+    "points": "精神科患者の継続的ケアに強みを持つ。",
+    "website_main": "https://www.yachiyo-hp.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 5,
+    "group": [
+      "八千代病院"
+    ]
+  },
+  {
+    "name": "アクアリハビリテーション病院",
+    "address": "千葉県君津市東坂田4-7-20",
+    "acute_level": 2,
+    "features": "回復期リハビリテーション専門病院。脳血管疾患や運動器障害の患者が中心。",
+    "points": "退院後の在宅復帰支援やリハビリ専門性を活かした連携が可能。",
+    "website_main": "https://www.aqua-reha.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 6,
+    "group": [
+      "アクアリハビリテーション病院"
+    ]
+  },
+  {
+    "name": "我孫子東邦病院",
+    "address": "千葉県我孫子市布佐834-28",
+    "acute_level": 3,
+    "features": "内科系診療を中心とした地域密着型病院。",
+    "points": "在宅医療との連携や慢性期対応が可能。",
+    "website_main": "https://www.abiko-toho.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 7,
+    "group": [
+      "我孫子東邦病院"
+    ]
+  },
+  {
+    "name": "泉中央病院",
+    "address": "千葉県千葉市若葉区高品町1051-1",
+    "acute_level": 3,
+    "features": "内科・整形外科・リハビリを提供する地域密着型病院。",
+    "points": "高齢者医療に力を入れた体制が特徴。",
+    "website_main": "https://www.izumi-c-hosp.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 8,
+    "group": [
+      "泉中央病院"
+    ]
+  },
+  {
+    "name": "白金整形外科病院",
+    "address": "千葉県白井市根325-2",
+    "acute_level": 3,
+    "features": "整形外科に特化した診療を提供。手術・リハビリ対応力あり。",
+    "points": "運動器疾患の専門的治療が可能で紹介先に適す。",
+    "website_main": "https://www.platinum-ortho.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 9,
+    "group": [
+      "白金整形外科病院"
+    ]
+  },
+  {
+    "name": "辰巳病院",
+    "address": "千葉県市原市辰巳台東2-16-1",
+    "acute_level": 2,
+    "features": "精神科に特化し、認知症・統合失調症などのケアを提供。",
+    "points": "精神疾患の長期療養患者や高齢者の受け入れに適す。",
+    "website_main": "https://www.tatsumi-hospital.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "辰巳病院"
+    ]
+  },
+  {
+    "name": "印西総合病院",
+    "address": "千葉県印西市牧の台1-1-1",
+    "acute_level": 4,
+    "features": "救急医療を含む総合診療体制を整備。多科目に対応。",
+    "points": "地域の中核病院として急性期対応が可能。",
+    "website_main": "https://www.inzai-hp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 2,
+    "group": [
+      "印西総合病院"
+    ]
+  },
+  {
+    "name": "総泉病院",
+    "address": "千葉県千葉市若葉区更科町2592",
+    "acute_level": 2,
+    "features": "慢性期医療とリハビリテーションに注力。療養型病床あり。",
+    "points": "慢性期や在宅復帰支援の受け皿として有力。",
+    "website_main": "https://www.sousen.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 3,
+    "group": [
+      "総泉病院"
+    ]
+  },
+  {
+    "name": "タムス市川リハビリテーション病院",
+    "address": "千葉県市川市柏井町4-229-4",
+    "acute_level": 2,
+    "features": "回復期リハビリテーションに特化した専門病院。",
+    "points": "在宅復帰を目指す回復期患者への転院先に適す。",
+    "website_main": "https://tums-reha.jp/ichikawa/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 4,
+    "group": [
+      "タムス市川リハビリテーション病院"
+    ]
+  },
+  {
+    "name": "栗山中央病院",
+    "address": "千葉県四街道市栗山906-1",
+    "acute_level": 3,
+    "features": "内科系を中心に救急・急性期から慢性期まで対応可能な病院。",
+    "points": "中等症の急性期・慢性期疾患に幅広く対応。",
+    "website_main": "https://www.kuriyama-hp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 5,
+    "group": [
+      "栗山中央病院"
+    ]
+  },
+  {
+    "name": "東千葉メディカルセンター",
+    "address": "千葉県東金市丘山台3-6-2",
+    "acute_level": 4,
+    "features": "急性期・救急医療に特化した地域中核病院。",
+    "points": "救急搬送の受け入れに強みを持つ医療機関。",
+    "website_main": "https://www.tkmedical.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 6,
+    "group": [
+      "東千葉メディカルセンター"
+    ]
+  },
+  {
+    "name": "兒玉病院",
+    "address": "千葉県市原市五井5155",
+    "acute_level": 3,
+    "features": "総合診療に対応。リハビリ・療養も提供する地域密着型病院。",
+    "points": "慢性期・高齢者医療の受け入れ先として適す。",
+    "website_main": "https://www.kodama-hospital.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 7,
+    "group": [
+      "兒玉病院"
+    ]
+  },
+  {
+    "name": "みつわ台総合病院",
+    "address": "千葉県千葉市若葉区若松町531-486",
+    "acute_level": 3,
+    "features": "内科中心の総合病院。リハビリや療養型医療にも対応。",
+    "points": "高齢者の慢性疾患管理や回復期に対応可能。",
+    "website_main": "https://www.mitsuwadai-hp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 8,
+    "group": [
+      "みつわ台総合病院"
+    ]
+  },
+  {
+    "name": "田辺病院",
+    "address": "千葉県南房総市千倉町忽戸610",
+    "acute_level": 2,
+    "features": "地域密着型の中小病院で、一般診療・リハビリに対応。",
+    "points": "高齢者の在宅療養支援・慢性疾患管理に適す。",
+    "website_main": "https://www.tanabe-hp.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 9,
+    "group": [
+      "田辺病院"
+    ]
+  },
+  {
+    "name": "野田総合病院",
+    "address": "千葉県野田市中里1554-1",
+    "acute_level": 3,
+    "features": "内科・外科・整形など総合診療を提供する中規模病院。",
+    "points": "中等症や高齢者診療を担える医療機関。",
+    "website_main": "https://www.nodahp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "野田総合病院"
+    ]
+  },
+  {
+    "name": "千葉県済生会習志野病院",
+    "address": "千葉県習志野市泉町1-1-1",
+    "acute_level": 4,
+    "features": "急性期医療を中心に、地域包括ケアにも対応。救急医療・各種専門外来を整備。",
+    "points": "地域の中核病院として、幅広い疾患・患者層に対応。紹介・転院先として信頼性が高い。",
+    "website_main": "https://www.chiba-saiseikai.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": null,
+    "group": [
+      "千葉県済生会習志野病院"
+    ]
+  },
+  {
+    "name": "姉崎病院",
+    "address": "千葉県市原市姉崎3426-3",
+    "acute_level": 3,
+    "features": "内科・外科・整形外科などに対応する地域密着型病院。療養・リハビリ病床も整備。",
+    "points": "中等症や慢性期の患者に適した地域医療機関。",
+    "website_main": "https://www.anesaki-hp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": null,
+    "group": [
+      "姉崎病院"
+    ]
+  },
+  {
+    "name": "白井聖仁会病院",
+    "address": "千葉県白井市復1125",
+    "acute_level": 3,
+    "features": "一般診療に加え、リハビリや慢性期ケアにも注力する病院。",
+    "points": "慢性期やリハビリ目的の紹介先として活用可能。",
+    "website_main": "https://www.shirai-seijinkai.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": null,
+    "group": [
+      "白井聖仁会病院"
+    ]
+  },
+  {
+    "name": "千葉・柏リハビリテーション病院",
+    "address": "千葉県柏市大井2651",
+    "acute_level": 3,
+    "features": "回復期リハビリに特化した専門病院。多職種連携による退院支援を強化。",
+    "points": "急性期後や在宅復帰支援のための紹介先として最適。",
+    "website_main": "https://www.ck-reha.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": null,
+    "group": [
+      "千葉・柏リハビリテーション病院"
+    ]
+  },
+  {
+    "name": "富家千葉病院",
+    "address": "千葉県千葉市稲毛区長沼原町277",
+    "acute_level": 2,
+    "features": "療養型病床を中心とした慢性期医療専門病院。",
+    "points": "長期療養や看取りに対応可能な施設。",
+    "website_main": "https://www.fuke-chiba.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": null,
+    "group": [
+      "富家千葉病院"
+    ]
+  },
+  {
+    "name": "国際医療福祉大学成田病院",
+    "address": "千葉県成田市畑ケ田852",
+    "acute_level": 5,
+    "features": "大学病院として高度急性期医療と先端医療を提供。国際医療にも対応。",
+    "points": "重症患者や高度専門医療が必要な症例の紹介先として最適。",
+    "website_main": "https://narita.iuhw.ac.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": true,
+    "priority": null,
+    "group": [
+      "国際医療福祉大学成田病院"
+    ]
+  },
+  {
+    "name": "井上記念病院",
+    "address": "千葉県千葉市中央区新田町1-16",
+    "acute_level": 3,
+    "features": "内科・外科を中心とした中小規模病院。リハビリにも対応。",
+    "points": "地域での初期対応やフォローアップに活用可能。",
+    "website_main": "https://www.inoue-hospital.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": null,
+    "group": [
+      "井上記念病院"
+    ]
+  },
+  {
+    "name": "聖隷佐倉市民病院",
+    "address": "千葉県佐倉市江原台2-36-2",
+    "acute_level": 4,
+    "features": "急性期から回復期・在宅医療まで一貫した医療を提供。",
+    "points": "地域の中核病院として、様々な疾患に対応可能。",
+    "website_main": "https://www.seirei.or.jp/sakura/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": null,
+    "group": [
+      "聖隷佐倉市民病院"
+    ]
+  },
+  {
+    "name": "津田沼中央総合病院",
+    "address": "千葉県習志野市谷津1-9-17",
+    "acute_level": 4,
+    "features": "総合診療・救急医療に対応する都市型中核病院。",
+    "points": "急性期医療に強く、都市部での紹介先として有力。",
+    "website_main": "https://www.tudanuma-hp.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": null,
+    "group": [
+      "津田沼中央総合病院"
+    ]
+  },
+  {
+    "name": "四街道徳洲会病院",
+    "address": "千葉県四街道市鹿渡934-5",
+    "acute_level": 4,
+    "features": "24時間救急体制を備えた地域医療の要。",
+    "points": "急性期・救急対応に適した紹介先。",
+    "website_main": "https://www.yotsukaido-hp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": null,
+    "group": [
+      "四街道徳洲会病院"
+    ]
+  },
+  {
+    "name": "稲毛病院",
+    "address": "千葉県千葉市稲毛区小仲台6-21-3",
+    "acute_level": 3,
+    "features": "内科・外科を中心とした地域密着型病院",
+    "points": "地域密着型で高齢者や慢性期患者への対応が見込まれる",
+    "website_main": "https://www.inage-hp.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "稲毛病院"
+    ]
+  },
+  {
+    "name": "東葛飾病院",
+    "address": "千葉県松戸市上本郷1265",
+    "acute_level": 3,
+    "features": "回復期・療養中心、地域包括ケア病棟あり",
+    "points": "地域包括・慢性期に強み。訪問診療や在宅ケアとの連携に可能性",
+    "website_main": "https://www.tokatsuk-hp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 2,
+    "group": [
+      "東葛飾病院"
+    ]
+  },
+  {
+    "name": "おゆみの中央病院",
+    "address": "千葉県千葉市緑区おゆみ野南6-49-9",
+    "acute_level": 3,
+    "features": "整形外科を中心にリハビリや在宅医療支援も実施",
+    "points": "整形・リハ需要に強み、地域在宅支援との連携可能性あり",
+    "website_main": "https://www.oyuminochuo.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 3,
+    "group": [
+      "おゆみの中央病院"
+    ]
+  },
+  {
+    "name": "イムス佐原リハビリテーション病院",
+    "address": "千葉県香取市佐原イ420",
+    "acute_level": 2,
+    "features": "リハビリに特化した病院、IMSグループ",
+    "points": "グループ連携と回復期需要を見込んだ提案が可能",
+    "website_main": "https://www.sawara-reha.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 4,
+    "group": [
+      "イムス佐原リハビリテーション病院"
+    ]
+  },
+  {
+    "name": "千葉南病院",
+    "address": "千葉県千葉市緑区椎名崎町1230",
+    "acute_level": 3,
+    "features": "療養・回復期中心でリハビリも実施",
+    "points": "慢性期・リハビリ中心の高齢者ニーズ対応病院",
+    "website_main": "https://www.minamihp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 5,
+    "group": [
+      "千葉南病院"
+    ]
+  },
+  {
+    "name": "塩田記念病院",
+    "address": "千葉県富津市青木1641-3",
+    "acute_level": 2,
+    "features": "地域密着型の医療・介護提供施設",
+    "points": "在宅・訪問系への連携と介護需要に合わせた提案が有効",
+    "website_main": "http://www.shiota-hospital.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 6,
+    "group": [
+      "塩田記念病院"
+    ]
+  },
+  {
+    "name": "東条病院",
+    "address": "千葉県鴨川市広場1615",
+    "acute_level": 2,
+    "features": "高齢者医療とリハビリを中心とした地域病院",
+    "points": "高齢化地域の中で在宅・福祉支援との連携可能性がある",
+    "website_main": "https://www.tojo-hospital.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 7,
+    "group": [
+      "東条病院"
+    ]
+  },
+  {
+    "name": "第２北総病院",
+    "address": "千葉県鎌ケ谷市初富803-119",
+    "acute_level": 3,
+    "features": "療養型病床と在宅医療支援に注力",
+    "points": "療養中心で在宅医療とのシームレス連携を構築可能",
+    "website_main": "https://www.dai2hokusou-hp.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 8,
+    "group": [
+      "第２北総病院"
+    ]
+  },
+  {
+    "name": "塩田病院",
+    "address": "千葉県富津市青木1641-3",
+    "acute_level": 2,
+    "features": "地域に根ざした医療・介護を提供",
+    "points": "記念病院と同一施設、連携視点での整理が必要",
+    "website_main": "http://www.shiota-hospital.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 9,
+    "group": [
+      "塩田記念病院",
+      "塩田病院"
+    ]
+  },
+  {
+    "name": "アビコ外科整形外科病院",
+    "address": "千葉県我孫子市我孫子4-22-22",
+    "acute_level": 3,
+    "features": "整形外科・リハビリを中心とした有床診療所",
+    "points": "整形特化によるリハ需要層への訴求が可能",
+    "website_main": "https://abiko-geka.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "アビコ外科整形外科病院"
+    ]
+  },
+  {
+    "name": "大島記念嬉泉病院",
+    "address": "千葉県市川市北国分4-26-1",
+    "acute_level": 3,
+    "features": "内科・外科・整形など幅広く対応する地域密着型病院",
+    "points": "地域住民への認知度が高く、近隣高齢者層への訪問や在宅医療提案に親和性あり",
+    "website_main": "https://www.kisen-hp.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "大島記念嬉泉病院"
+    ]
+  },
+  {
+    "name": "くぼのやウィメンズホスピタル",
+    "address": "千葉県千葉市中央区新田町23-31",
+    "acute_level": 2,
+    "features": "産婦人科専門、出産・不妊治療・女性特有疾患対応",
+    "points": "産婦人科領域に特化しており、周産期支援・女性特化型のサービス提案に適している",
+    "website_main": "https://www.kubonoya.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "くぼのやウィメンズホスピタル"
+    ]
+  },
+  {
+    "name": "千葉ろうさい病院",
+    "address": "千葉県市原市辰巳台東2-16",
+    "acute_level": 4,
+    "features": "労災指定・救急対応・手術・リハビリに注力",
+    "points": "労災・救急に強く、産業保健や地域医療連携での導入ニーズあり",
+    "website_main": "https://www.chiba-h.johas.go.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": true,
+    "priority": 1,
+    "group": [
+      "千葉ろうさい病院"
+    ]
+  },
+  {
+    "name": "薬園台リハビリテーション病院",
+    "address": "千葉県船橋市薬円台4-6-1",
+    "acute_level": 2,
+    "features": "回復期リハ専門、療養型、在宅復帰支援",
+    "points": "地域包括ケア・在宅支援拠点としてケアマネ・訪問連携での提案に適している",
+    "website_main": "https://www.yakuyendaireha.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "薬園台リハビリテーション病院"
+    ]
+  },
+  {
+    "name": "千葉健生病院",
+    "address": "千葉県千葉市花見川区幕張町5-392-4",
+    "acute_level": 3,
+    "features": "地域医療支援・総合診療科・外来機能が充実",
+    "points": "医療生協系で高齢者対応に強く、地域イベントや健康相談との親和性高",
+    "website_main": "https://www.chibakensei-hp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "千葉健生病院"
+    ]
+  },
+  {
+    "name": "秋元病院",
+    "address": "千葉県鎌ケ谷市初富803",
+    "acute_level": 2,
+    "features": "精神科中心、認知症ケアや在宅支援あり",
+    "points": "精神疾患・認知症中心の病院で、介護事業者との連携や支援機器の提案に好相性",
+    "website_main": "https://www.akimoto-hospital.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "秋元病院"
+    ]
+  },
+  {
+    "name": "本多病院",
+    "address": "千葉県柏市末広町2-10",
+    "acute_level": 3,
+    "features": "外来・入院・救急・健診に対応、地域密着型",
+    "points": "コンパクトな地域中核病院であり、救急・健診対応機器などの提案余地あり",
+    "website_main": "https://www.hondahp.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "本多病院"
+    ]
+  },
+  {
+    "name": "南ヶ丘病院",
+    "address": "千葉県千葉市若葉区若松町531-486",
+    "acute_level": 2,
+    "features": "療養型・内科中心、長期入院に対応",
+    "points": "慢性期・療養型として長期ケアや療養環境支援に注力可能",
+    "website_main": "http://minamigaokahospital.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "南ヶ丘病院"
+    ]
+  },
+  {
+    "name": "五井病院",
+    "address": "千葉県市原市五井5155",
+    "acute_level": 3,
+    "features": "救急・回復期・リハまで一貫対応",
+    "points": "多機能型病院であり、幅広い機器・支援サービス提案の余地がある",
+    "website_main": "https://www.goi-hp.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "五井病院"
+    ]
+  },
+  {
+    "name": "我孫子つくし野病院",
+    "address": "千葉県我孫子市つくし野131-1",
+    "acute_level": 2,
+    "features": "療養中心、訪問医療に強み",
+    "points": "在宅医療・訪問系の製品や連携サービス提案に適している",
+    "website_main": "https://abiko-tsukushino-hospital.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "我孫子つくし野病院"
+    ]
+  },
+  {
+    "name": "千葉白井病院",
+    "address": "千葉県白井市復1123-1",
+    "acute_level": 3,
+    "features": "一般病棟と療養型病棟を併設し、内科系中心の医療を提供",
+    "points": "地域密着型で高齢者医療に注力、慢性期や在宅復帰支援の提案が有効",
+    "website_main": "https://www.chiba-shiroi-hospital.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "千葉白井病院"
+    ]
+  },
+  {
+    "name": "いすみ医療センター",
+    "address": "千葉県いすみ市苅谷1177",
+    "acute_level": 3,
+    "features": "地域医療支援病院として一次〜二次救急を担う",
+    "points": "地域完結型医療の提案、医療・介護連携の観点でアプローチ可",
+    "website_main": "https://www.isumi-medical-center.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "いすみ医療センター"
+    ]
+  },
+  {
+    "name": "一条会病院",
+    "address": "千葉県木更津市東中央1-1-11",
+    "acute_level": 2,
+    "features": "透析・内科診療に特化し、地域の慢性期医療を支える",
+    "points": "慢性期や透析医療領域への製品・サービス提案が効果的",
+    "website_main": "https://www.ichijoukai.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "一条会病院"
+    ]
+  },
+  {
+    "name": "館山病院",
+    "address": "千葉県館山市北条520-1",
+    "acute_level": 3,
+    "features": "内科・整形を中心に地域に根ざした総合病院",
+    "points": "医療・介護連携や地域包括ケアの提案がマッチする",
+    "website_main": "http://www.tateyama-hospital.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "館山病院"
+    ]
+  },
+  {
+    "name": "佐倉厚生園病院",
+    "address": "千葉県佐倉市栄町20-4",
+    "acute_level": 2,
+    "features": "内科・精神科を中心とした慢性期病院",
+    "points": "精神科や長期療養型の提案アプローチが有効",
+    "website_main": "http://www.kouseien.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "佐倉厚生園病院"
+    ]
+  },
+  {
+    "name": "勝田台病院",
+    "address": "千葉県八千代市勝田622-2",
+    "acute_level": 3,
+    "features": "整形外科・内科に強み、リハビリ病棟も保有",
+    "points": "高齢患者向けサービスやリハビリ関連製品の提案が期待できる",
+    "website_main": "https://www.katsutadai-hospital.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "勝田台病院"
+    ]
+  },
+  {
+    "name": "船橋二和病院",
+    "address": "千葉県船橋市二和東5-1-1",
+    "acute_level": 4,
+    "features": "急性期・救急対応、地域包括ケア病棟も有",
+    "points": "急性期〜回復期まで対応しており、幅広いソリューション提案が可能",
+    "website_main": "https://www.futawa-hp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": true,
+    "priority": 2,
+    "group": [
+      "船橋二和病院"
+    ]
+  },
+  {
+    "name": "岡田病院",
+    "address": "千葉県木更津市富士見2-7-1",
+    "acute_level": 2,
+    "features": "整形・内科中心の地域密着型病院",
+    "points": "中小規模病院として地域医療連携や外来支援の提案に適す",
+    "website_main": "http://www.okada-hospital.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "岡田病院"
+    ]
+  },
+  {
+    "name": "たむら記念病院",
+    "address": "千葉県香取市佐原イ2406",
+    "acute_level": 3,
+    "features": "急性期・回復期・療養型を併設",
+    "points": "地域包括ケアや高齢者ケアに向けた提案が有効",
+    "website_main": "http://www.tamura-kinen.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "たむら記念病院"
+    ]
+  },
+  {
+    "name": "北柏リハビリ総合病院",
+    "address": "千葉県柏市柏下265",
+    "acute_level": 3,
+    "features": "回復期リハビリテーション病棟を中心とした専門病院",
+    "points": "リハビリ特化型の製品や支援プログラムの提案が効果的",
+    "website_main": "https://www.kitakashiwa-reha.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": true,
+    "priority": 3,
+    "group": [
+      "北柏リハビリ総合病院"
+    ]
+  },
+  {
+    "name": "三愛記念病院",
+    "address": "千葉県千葉市中央区新田町2-3",
+    "acute_level": 3,
+    "features": "内科・外科中心の地域密着型病院",
+    "points": "中央区の中小病院として地域ニーズに対応、在宅・地域連携提案が有効",
+    "website_main": "https://sanaihp.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "三愛記念病院"
+    ]
+  },
+  {
+    "name": "宍倉病院",
+    "address": "千葉県茂原市高師687",
+    "acute_level": 2,
+    "features": "内科中心の中規模病院",
+    "points": "高齢化地域での慢性期・在宅支援で連携余地あり",
+    "website_main": "http://www.shishikura-hp.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "宍倉病院"
+    ]
+  },
+  {
+    "name": "東葛クリニック病院",
+    "address": "千葉県松戸市樋野口865-2",
+    "acute_level": 3,
+    "features": "透析医療を中心にした中規模病院",
+    "points": "透析患者支援を切り口としたアプローチが可能",
+    "website_main": "https://www.tokatsu-clinic.jp/clinic/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "東葛クリニック病院"
+    ]
+  },
+  {
+    "name": "北総栄病院",
+    "address": "千葉県香取郡多古町北中997-1",
+    "acute_level": 2,
+    "features": "地域密着型の中小病院",
+    "points": "多古町の地域密着型、地域包括ケアとの親和性高",
+    "website_main": "http://www.hokusouei.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "北総栄病院"
+    ]
+  },
+  {
+    "name": "永野病院",
+    "address": "千葉県鎌ケ谷市初富803",
+    "acute_level": 2,
+    "features": "中小規模の総合病院",
+    "points": "地域医療ニーズ高、在宅や地域包括連携の提案有効",
+    "website_main": "http://nagano-hospital.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "永野病院"
+    ]
+  },
+  {
+    "name": "泉リハビリテーション病院",
+    "address": "千葉県習志野市泉町1-1-1",
+    "acute_level": 2,
+    "features": "回復期リハビリテーション専門病院",
+    "points": "リハビリ転院支援などの導線づくりで連携可能性あり",
+    "website_main": "https://izumi-reha.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "泉リハビリテーション病院"
+    ]
+  },
+  {
+    "name": "大野中央病院",
+    "address": "千葉県市川市下貝塚3-20-3",
+    "acute_level": 3,
+    "features": "二次救急・急性期対応の中規模病院",
+    "points": "市川市の急性期病床として、救急連携含めて接点模索可能",
+    "website_main": "http://www.ohnochuuou-hp.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "大野中央病院"
+    ]
+  },
+  {
+    "name": "三和病院",
+    "address": "千葉県松戸市日暮7-379",
+    "acute_level": 2,
+    "features": "療養・慢性期中心の病院",
+    "points": "在宅医療や施設連携の入口としての関係構築可能",
+    "website_main": "http://www.sanwahospital.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "三和病院"
+    ]
+  },
+  {
+    "name": "大村病院",
+    "address": "千葉県千葉市花見川区幕張町5-392-2",
+    "acute_level": 2,
+    "features": "地域密着型の中小病院",
+    "points": "幕張エリアでの地域連携・紹介体制の整備可能性あり",
+    "website_main": "http://ohmura-hp.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "大村病院"
+    ]
+  },
+  {
+    "name": "青山病院",
+    "address": "千葉県鎌ケ谷市初富808-54",
+    "acute_level": 2,
+    "features": "高齢者向け医療とリハビリを提供",
+    "points": "回復期から在宅までの導線提案がしやすい医療機関",
+    "website_main": "http://www.aoyama-hp.com/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "青山病院"
+    ]
+  },
+  {
+    "name": "木更津東邦病院",
+    "address": "千葉県木更津市清見台南5丁目1-39",
+    "acute_level": 3,
+    "features": "一般病床・療養病床を持つ中規模病院、地域密着の内科・外科診療",
+    "points": "地域の高齢患者層に対する慢性期や外来ケア強化が提案可能",
+    "website_main": "https://www.kisarazu-toho.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "木更津東邦病院"
+    ]
+  },
+  {
+    "name": "日吉台病院",
+    "address": "千葉県富里市日吉台1-1-1",
+    "acute_level": 3,
+    "features": "整形外科に強み、高齢者医療やリハビリ中心",
+    "points": "回復期・在宅復帰支援領域での連携提案が見込める",
+    "website_main": "https://hiyoshidai-hospital.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "日吉台病院"
+    ]
+  },
+  {
+    "name": "しのだの森ホスピタル",
+    "address": "千葉県千葉市若葉区多部田町711-1",
+    "acute_level": 2,
+    "features": "精神科専門病院、認知症・うつ病などに対応",
+    "points": "精神科領域でのICT支援・見守り強化のニーズがある可能性",
+    "website_main": "https://www.shinodanomori.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "しのだの森ホスピタル"
+    ]
+  },
+  {
+    "name": "中村古峡記念病院",
+    "address": "千葉県千葉市中央区長洲2丁目21-8",
+    "acute_level": 2,
+    "features": "精神科・神経科の専門病院",
+    "points": "精神科の入院・地域連携支援が主軸となる提案可能",
+    "website_main": "https://www.furukyo.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "中村古峡記念病院"
+    ]
+  },
+  {
+    "name": "手賀沼病院",
+    "address": "千葉県我孫子市高野山303-1",
+    "acute_level": 2,
+    "features": "精神科・認知症治療を中心とする療養型病院",
+    "points": "認知症高齢者のケア向上・記録効率化がテーマ",
+    "website_main": "https://www.teganuma.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "手賀沼病院"
+    ]
+  },
+  {
+    "name": "さんむ医療センター",
+    "address": "千葉県山武市成東167",
+    "acute_level": 4,
+    "features": "地域中核の急性期病院、二次救急医療提供",
+    "points": "救急・外来対応や看護部門の支援がポイント",
+    "website_main": "https://www.sammu-med.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": true,
+    "priority": 4,
+    "group": [
+      "さんむ医療センター"
+    ]
+  },
+  {
+    "name": "船橋総合病院",
+    "address": "千葉県船橋市本町4-8-28",
+    "acute_level": 4,
+    "features": "急性期医療・外来・内視鏡診療に強み",
+    "points": "救急・在宅復帰支援を意識した業務改善提案が可能",
+    "website_main": "https://www.f-sogo.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": true,
+    "priority": 4,
+    "group": [
+      "船橋総合病院"
+    ]
+  },
+  {
+    "name": "小張総合病院",
+    "address": "千葉県野田市横内29-1",
+    "acute_level": 5,
+    "features": "地域最大規模の高度急性期病院、救命救急センター併設",
+    "points": "高度医療領域へのICTソリューション展開が期待される",
+    "website_main": "https://www.kobari.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": true,
+    "priority": 1,
+    "group": [
+      "小張総合病院"
+    ]
+  },
+  {
+    "name": "松戸牧の原病院",
+    "address": "千葉県松戸市五香西4丁目26-10",
+    "acute_level": 3,
+    "features": "一般病棟・療養病棟を持ち、内科を中心に診療",
+    "points": "在宅・地域包括支援との連携を軸に提案が可能",
+    "website_main": "https://www.mmh.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "松戸牧の原病院"
+    ]
+  },
+  {
+    "name": "四街道さくら病院",
+    "address": "千葉県四街道市吉岡1830-1",
+    "acute_level": 3,
+    "features": "回復期・慢性期医療に注力、リハビリ体制充実",
+    "points": "リハビリ部門向けの業務改善・支援策を提案可能",
+    "website_main": "https://www.sakura-hospital.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 10,
+    "group": [
+      "四街道さくら病院"
+    ]
+  },
+  {
+    "name": "いけだ病院",
+    "address": "千葉県いすみ市苅谷1177",
+    "acute_level": 2,
+    "features": "地域密着型の一般病院、療養病床も有する",
+    "points": "地域高齢者層への医療提供で重要。在宅医療や慢性期に対応可能。",
+    "website_main": "https://www.ikeda-hp.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 1,
+    "group": [
+      "いけだ病院"
+    ]
+  },
+  {
+    "name": "長谷川病院",
+    "address": "千葉県船橋市金杉町220-1",
+    "acute_level": 2,
+    "features": "療養型中心、慢性期医療やリハビリに特化",
+    "points": "長期入院・慢性期需要に応える施設。訪問診療強化の提案が有効。",
+    "website_main": "https://www.hasegawa-hosp.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 2,
+    "group": [
+      "長谷川病院"
+    ]
+  },
+  {
+    "name": "常盤平中央病院",
+    "address": "千葉県松戸市常盤平6丁目1−8",
+    "acute_level": 3,
+    "features": "急性期から在宅復帰支援まで提供、地域密着",
+    "points": "高齢化対応や地域連携の強化、医療介護複合提案に向く",
+    "website_main": "http://tokiwadaira-c-hp.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 3,
+    "group": [
+      "常盤平中央病院"
+    ]
+  },
+  {
+    "name": "高名清養病院",
+    "address": "千葉県木更津市長須賀1239",
+    "acute_level": 2,
+    "features": "回復期リハビリと療養中心、在宅復帰支援",
+    "points": "回復期特化と在宅移行を支援するモデルとして提案価値あり",
+    "website_main": "https://www.komyo-seiyo.or.jp/",
+    "website_internal": "",
+    "website_extra": "",
+    "focus": false,
+    "priority": 4,
+    "group": [
+      "高名清養病院"
+    ]
+  }
+]
